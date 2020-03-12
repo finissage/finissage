@@ -35,7 +35,7 @@
 * [zsh](zsh)
 
 ## Server
-* [RabbitMQ](RabbitMQ)
+* [RabbitMQ](https://github.com/finissage/finissage.github.io/wiki/RabbitMQ)
 * [RabbitMqAdmin命令](rabbitmqadmin)
 * [RabbitMQCommand](rabbitmq-command)
 
